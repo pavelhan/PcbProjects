@@ -142,33 +142,54 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document7]
+DocumentPath=Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PICITQZM
+
 [Parameter1]
-Name=CompanyWebsite
-Value=www.altium.com
+Name=12
+Value=121
 
 [Parameter2]
-Name=PrjAddress1
-Value=4225 Executive Sqr
+Name=Project
+Value=Mini PC Wifi Module
 
 [Parameter3]
-Name=PrjAddress2
-Value=Suite 700
-
-[Parameter4]
-Name=PrjAddress3
-Value=La Jolla, CA, USA
-
-[Parameter5]
-Name=PrjAddress4
-Value=92037
-
-[Parameter6]
 Name=PrjCompanyName
 Value=Altium
 
+[Parameter4]
+Name=PrjAddress4
+Value=92037
+
+[Parameter5]
+Name=PrjAddress3
+Value=La Jolla, CA, USA
+
+[Parameter6]
+Name=PrjAddress2
+Value=Suite 700
+
 [Parameter7]
-Name=Project
-Value=Mini PC Wifi Module
+Name=PrjAddress1
+Value=4225 Executive Sqr
+
+[Parameter8]
+Name=CompanyWebsite
+Value=www.altium.com
 
 [Configuration1]
 Name=Sources
