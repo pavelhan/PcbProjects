@@ -160,34 +160,38 @@ GenerateClassCluster=0
 DocumentUniqueId=PICITQZM
 
 [Parameter1]
+Name=121
+Value=112
+
+[Parameter2]
 Name=Project
 Value=Mini PC Wifi Module
 
-[Parameter2]
+[Parameter3]
 Name=PrjCompanyName
 Value=Altium
 
-[Parameter3]
+[Parameter4]
 Name=PrjAddress4
 Value=92037
 
-[Parameter4]
+[Parameter5]
 Name=PrjAddress3
 Value=La Jolla, CA, USA
 
-[Parameter5]
+[Parameter6]
 Name=PrjAddress2
 Value=Suite 700
 
-[Parameter6]
+[Parameter7]
 Name=PrjAddress1
 Value=4225 Executive Sqr
 
-[Parameter7]
+[Parameter8]
 Name=CompanyWebsite
 Value=www.altium.com
 
-[Parameter8]
+[Parameter9]
 Name=12
 Value=121
 
@@ -204,7 +208,7 @@ ConfigurationType=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=PCADNetlist
 OutputName1=PCAD Netlist
@@ -310,7 +314,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -388,7 +392,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -410,7 +414,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -482,7 +486,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -519,7 +523,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -699,7 +703,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -743,7 +747,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Specctra Design PCB
 OutputName1=Specctra Design PCB
@@ -804,7 +808,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
+TargetPrinter=OneNote
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1004,81 +1008,81 @@ Type67=1
 Type68=1
 
 [Electrical Rules Check]
-Type1=1
-Type2=1
-Type3=2
+Type1=0
+Type2=0
+Type3=0
 Type4=1
-Type5=2
-Type6=2
+Type5=0
+Type6=0
 Type7=0
-Type8=1
-Type9=1
-Type10=1
-Type11=2
+Type8=0
+Type9=0
+Type10=0
+Type11=0
 Type12=0
 Type13=0
-Type14=1
-Type15=1
-Type16=1
-Type17=1
-Type18=1
-Type19=1
+Type14=0
+Type15=0
+Type16=0
+Type17=0
+Type18=0
+Type19=0
 Type20=0
 Type21=0
 Type22=0
 Type23=0
-Type24=1
-Type25=2
+Type24=0
+Type25=0
 Type26=0
-Type27=2
-Type28=1
-Type29=1
-Type30=1
-Type31=1
-Type32=2
+Type27=0
+Type28=0
+Type29=0
+Type30=0
+Type31=0
+Type32=0
 Type33=0
-Type34=2
-Type35=1
-Type36=2
-Type37=1
-Type38=2
-Type39=2
-Type40=2
+Type34=0
+Type35=0
+Type36=0
+Type37=0
+Type38=0
+Type39=0
+Type40=0
 Type41=0
-Type42=2
-Type43=1
+Type42=0
+Type43=0
 Type44=0
 Type45=0
 Type46=0
 Type47=0
 Type48=0
 Type49=0
-Type50=2
+Type50=0
 Type51=0
 Type52=0
-Type53=1
-Type54=1
-Type55=1
-Type56=2
-Type57=1
-Type58=1
-Type59=2
+Type53=0
+Type54=0
+Type55=0
+Type56=0
+Type57=0
+Type58=0
+Type59=0
 Type60=0
 Type61=0
 Type62=0
 Type63=0
 Type64=0
-Type65=2
+Type65=0
 Type66=3
 Type67=2
 Type68=2
-Type69=2
-Type70=2
-Type71=2
-Type72=2
-Type73=2
-Type74=1
-Type75=2
+Type69=0
+Type70=0
+Type71=0
+Type72=0
+Type73=0
+Type74=0
+Type75=0
 Type76=1
 Type77=1
 Type78=1
@@ -1086,14 +1090,14 @@ Type79=1
 Type80=2
 Type81=3
 Type82=3
-Type83=3
-Type84=3
-Type85=3
-Type86=2
-Type87=2
-Type88=2
-Type89=1
-Type90=1
+Type83=0
+Type84=0
+Type85=0
+Type86=0
+Type87=0
+Type88=0
+Type89=0
+Type90=0
 Type91=3
 Type92=3
 Type93=2
@@ -1102,8 +1106,8 @@ Type95=2
 Type96=2
 Type97=2
 Type98=0
-Type99=1
-Type100=2
+Type99=0
+Type100=0
 Type101=0
 Type102=2
 Type103=2
@@ -1113,19 +1117,19 @@ Type106=2
 Type107=2
 Type108=2
 Type109=1
-Type110=1
-Type111=1
-Type112=1
+Type110=0
+Type111=0
+Type112=0
 Type113=1
 Type114=2
 Type115=2
 Type116=2
 Type117=3
 Type118=3
-Type119=3
-MultiChannelAlternate=2
-AlternateItemFail=3
-Type122=2
+Type119=0
+MultiChannelAlternate=0
+AlternateItemFail=0
+Type122=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
