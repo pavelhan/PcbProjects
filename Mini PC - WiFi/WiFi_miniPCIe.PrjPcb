@@ -160,36 +160,36 @@ GenerateClassCluster=0
 DocumentUniqueId=PICITQZM
 
 [Parameter1]
-Name=12
-Value=121
+Name=Project
+Value=Mini PC Wifi Module
 
 [Parameter2]
-Name=CompanyWebsite
-Value=www.altium.com
-
-[Parameter3]
-Name=PrjAddress1
-Value=4225 Executive Sqr
-
-[Parameter4]
-Name=PrjAddress2
-Value=Suite 700
-
-[Parameter5]
-Name=PrjAddress3
-Value=La Jolla, CA, USA
-
-[Parameter6]
-Name=PrjAddress4
-Value=92037
-
-[Parameter7]
 Name=PrjCompanyName
 Value=Altium
 
+[Parameter3]
+Name=PrjAddress4
+Value=92037
+
+[Parameter4]
+Name=PrjAddress3
+Value=La Jolla, CA, USA
+
+[Parameter5]
+Name=PrjAddress2
+Value=Suite 700
+
+[Parameter6]
+Name=PrjAddress1
+Value=4225 Executive Sqr
+
+[Parameter7]
+Name=CompanyWebsite
+Value=www.altium.com
+
 [Parameter8]
-Name=Project
-Value=Mini PC Wifi Module
+Name=12
+Value=121
 
 [Configuration1]
 Name=Sources
