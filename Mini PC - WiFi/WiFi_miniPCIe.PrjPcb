@@ -30,6 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=EE547A6C-CFBC-4AAD-AC34-451F694AD0D2
+VaultGUID=DBE313F5-8002-42D9-BE3F-5A35DA14273B
+ReleaseVaultName=GIT2
+ItemGUID=EE547A6C-CFBC-4AAD-AC34-451F694AD0D2
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -160,32 +164,32 @@ Name=12
 Value=121
 
 [Parameter2]
-Name=Project
-Value=Mini PC Wifi Module
+Name=CompanyWebsite
+Value=www.altium.com
 
 [Parameter3]
-Name=PrjCompanyName
-Value=Altium
+Name=PrjAddress1
+Value=4225 Executive Sqr
 
 [Parameter4]
-Name=PrjAddress4
-Value=92037
+Name=PrjAddress2
+Value=Suite 700
 
 [Parameter5]
 Name=PrjAddress3
 Value=La Jolla, CA, USA
 
 [Parameter6]
-Name=PrjAddress2
-Value=Suite 700
+Name=PrjAddress4
+Value=92037
 
 [Parameter7]
-Name=PrjAddress1
-Value=4225 Executive Sqr
+Name=PrjCompanyName
+Value=Altium
 
 [Parameter8]
-Name=CompanyWebsite
-Value=www.altium.com
+Name=Project
+Value=Mini PC Wifi Module
 
 [Configuration1]
 Name=Sources
@@ -796,6 +800,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
