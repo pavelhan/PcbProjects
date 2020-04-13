@@ -30,10 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=Unit Output files
 LogFolderPath=
-ManagedProjectGUID=DFD9D04B-D3B8-4550-A436-94623EF0D029
-VaultGUID=f77d7929-5f60-4759-8131-5988c33689a6
-ReleaseVaultName=ExtSVNSupport
-ItemGUID=DFD9D04B-D3B8-4550-A436-94623EF0D029
+ManagedProjectGUID=21302112-B1FF-4DC9-A1C5-B65D9880FF9B
+VaultGUID=993DB853-C198-4715-BF6F-A31DDBB3553F
+ReleaseVaultName=ProtoTest
+ItemGUID=21302112-B1FF-4DC9-A1C5-B65D9880FF9B
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -175,7 +175,7 @@ OutputDir=Unit Output files
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=EDIF
 OutputName1=EDIF for PCB
@@ -281,7 +281,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -363,7 +363,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -385,7 +385,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -459,7 +459,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -496,7 +496,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -676,7 +676,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -720,7 +720,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -781,7 +781,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF (redirected 1)
+TargetPrinter=\\KIVCORPDC02\Canon MF247dw (Kyiv Office)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files

@@ -30,6 +30,13 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
+<<<<<<< HEAD
+=======
+ManagedProjectGUID=9654F6CF-9A80-4A63-AF37-1D6D79F9C866
+VaultGUID=993DB853-C198-4715-BF6F-A31DDBB3553F
+ReleaseVaultName=ProtoTest
+ItemGUID=9654F6CF-9A80-4A63-AF37-1D6D79F9C866
+>>>>>>> a035dedf058ca14e2ec85b31301e2c5bd687af16
 IncludeDesignInRelease=0
 
 [Preferences]

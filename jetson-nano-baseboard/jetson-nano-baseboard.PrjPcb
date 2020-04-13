@@ -30,10 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=A6E4B7D7-7C2D-4E45-968B-132A3FE269FC
-VaultGUID=E0BE4298-0EAF-4355-A404-D47EBAF77DFF
-ReleaseVaultName=ExtGitTest
-ItemGUID=A6E4B7D7-7C2D-4E45-968B-132A3FE269FC
+ManagedProjectGUID=80EEC16F-FC7D-40BC-9946-CEDB674BA4A9
+VaultGUID=C9F9BAEE-020E-41E2-8A94-6699548C094F
+ReleaseVaultName=ProtoTest2
+ItemGUID=80EEC16F-FC7D-40BC-9946-CEDB674BA4A9
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -55,7 +55,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TPMSBQOB
 
 [Document2]
 DocumentPath=PCB\display.SchDoc
@@ -72,7 +72,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IFGJUKHC
 
 [Document3]
 DocumentPath=PCB\ethernet.SchDoc
@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UEWJSJDQ
 
 [Document4]
 DocumentPath=PCB\PCB.PcbDoc
@@ -123,7 +123,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FWICEOGS
 
 [Document6]
 DocumentPath=PCB\supply.SchDoc
@@ -140,7 +140,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FITANGTZ
 
 [Document7]
 DocumentPath=PCB\usb-debug.SchDoc
@@ -157,7 +157,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UBODUBAM
 
 [Document8]
 DocumentPath=Libraries\jetson-nano-baseboard.PcbLib
