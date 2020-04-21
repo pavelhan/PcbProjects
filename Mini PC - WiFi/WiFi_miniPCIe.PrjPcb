@@ -30,6 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=6C71BAC1-0E49-4BAB-8BC6-0281352A936B
+VaultGUID=10BD6E48-244D-44B9-8EBD-A2DAA64432E3
+ReleaseVaultName=Altium Dev AD Subscription_Balatsko
+ItemGUID=6C71BAC1-0E49-4BAB-8BC6-0281352A936B
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -800,11 +804,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
